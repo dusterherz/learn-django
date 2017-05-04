@@ -10,6 +10,6 @@ I like to have a clean project and to work by functionnality. It can also serve 
 Python. This must be sufficient ?
 Okay, in reality I have made in the past a little project in Django but I don't remember most of it. Today I have a little project to do at my work, and Django seems to be the perfect candidate. So I'm here, remaking the tutorial !
 
-How far am I ?
+## How far am I ?
 
 I have just started ! :)
