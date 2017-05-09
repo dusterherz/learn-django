@@ -12,4 +12,4 @@ Okay, in reality I have made in the past a little project in Django but I don't 
 
 ## How far am I ?
 
-I have just started ! :)
+Finished the tutorial ! Now, I'm ready for my little project.
